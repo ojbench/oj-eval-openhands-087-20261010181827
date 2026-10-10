@@ -149,6 +149,8 @@ CMakeCache.txt
 - Exceeding time or memory limits will be judged as the corresponding error type
 - Please pay attention to the overall time performance of your code and the time complexity of each part of your algorithm.
 
+* Final verification completed.
+
 ### Academic Integrity
 
 * Updated after verification
